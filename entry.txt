@@ -1,0 +1,1 @@
+ERROR E21: drain blocked by one sock. It has lived in the filter since March and pays no rent.
